@@ -1,6 +1,6 @@
 package ch.teko.prg.Meine_uebungen;
 
-// Hier steht in welchem Package diese Klasse steht bliblabluuuuuuzuu
+// Hier steht in welchem Package diese Klasse steht blibla
 class Programmieren_hilfe               // Jede Klasse befginnt mit class Programm_Name (erster Buchstabe gross und keine leer Zeichen
 {                                       // die Klasse beginnt mit der geschweiften Klammer {
 
