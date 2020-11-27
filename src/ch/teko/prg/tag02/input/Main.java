@@ -5,3 +5,5 @@ public class Main {
         Mensch peter = new Mensch("Muster", "Peter", 20, 5000);
     }
 }
+
+

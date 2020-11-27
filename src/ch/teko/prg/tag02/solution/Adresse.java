@@ -1,5 +1,7 @@
 package ch.teko.prg.tag02.solution;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class Adresse {
     //Instanzvariablen
     public String strasse;
@@ -47,5 +49,6 @@ public class Adresse {
     public void setWohnort(String wohnort) {
         this.wohnort = wohnort;
     }
+
 
 }
