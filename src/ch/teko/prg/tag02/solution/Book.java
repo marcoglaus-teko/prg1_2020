@@ -8,10 +8,11 @@ public class Book {
     public double preis;
     public int kaufjahr;
 
+
     //Konstruktoren
     public Book(String titel, String autor, double preis, int kaufjahr) {
-        this.titel = titel;
-        this.autor = autor;
+        this.titel=titel;
+        this.autor=autor;
         this.preis = preis;
         this.kaufjahr = kaufjahr;
     }

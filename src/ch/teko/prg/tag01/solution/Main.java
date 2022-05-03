@@ -5,7 +5,8 @@ package ch.teko.prg.tag01.solution;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+
+        public static void main(String[] args) {
         /*
         //Erstellen von Objekten der Klasse Pkw
         Pkw auto1 = new Pkw("Mercedes", "C-Klasse", 200);
